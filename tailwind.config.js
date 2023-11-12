@@ -7,6 +7,6 @@ module.exports = {
       'Recursive' : ['Recursive', 'sans-serif']
     },
   },
-  plugins: [],
-}
+  plugins: []
+};
 
